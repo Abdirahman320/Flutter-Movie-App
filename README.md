@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 ![Image Alt](![Image Alt](https://github.com/Abdirahman320/Flutter-Movie-App/blob/ddbce73f742f1d663909f316f5ebe0c9172a3e2e/03.jpg)
 ![Image Alt](![Image Alt](https://github.com/Abdirahman320/Flutter-Movie-App/blob/ddbce73f742f1d663909f316f5ebe0c9172a3e2e/04.jpg)
 ![Image Alt](![Image Alt](https://github.com/Abdirahman320/Flutter-Movie-App/blob/ddbce73f742f1d663909f316f5ebe0c9172a3e2e/05.jpg)
+![Image Alt](![Image Alt](https://github.com/Abdirahman320/Flutter-Movie-App/blob/ddbce73f742f1d663909f316f5ebe0c9172a3e2e/06.jpg)
